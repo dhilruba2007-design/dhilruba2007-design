@@ -33,4 +33,4 @@
  ![](https://streak-stats.demolab.com?user=dhilruba2007-design&theme=tokyonight&hide_border=false)
 
 ### 📈 Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=dhilruba2007-design&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhilruba2007-design&theme=tokyo-night)

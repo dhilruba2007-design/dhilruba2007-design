@@ -26,12 +26,11 @@
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
+
 ### 📊 My GitHub Stats
+![Dhilruba's Stats](https://github-readme-stats.vercel.app/api?username=dhilruba2007-design&show_icons=true&theme=tokyonight&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api?username=dhilruba2007-design&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=dhilruba2007-design&theme=tokyonight&hide_border=false)
 
- ![](https://streak-stats.demolab.com?user=dhilruba2007-design&theme=tokyonight&hide_border=false)
-
-## 🐍 My GitHub Contributions
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/dhilruba2007-design/dhilruba2007-design/output/github-contribution-grid-snake.svg)
+### 🔥 Contributions
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhilruba2007-design&layout=compact&theme=tokyonight&hide_border=false)

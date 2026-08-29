@@ -32,6 +32,6 @@
 
  ![](https://streak-stats.demolab.com?user=dhilruba2007-design&theme=tokyonight&hide_border=false)
 
-## 📊 GitHub Contribution Graph
+## 🐍 My GitHub Contributions
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhilruba2007-design&theme=tokyo-night&hide_border=true)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/dhilruba2007-design/dhilruba2007-design/output/github-contribution-grid-snake.svg)
